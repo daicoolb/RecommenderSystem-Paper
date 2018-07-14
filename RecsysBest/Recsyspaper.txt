@@ -1,0 +1,84 @@
+<<<<<<< HEAD
+RecSys Best Paper Awards
+
+2015
+
+Context-Aware Event Recommendation in Event-based Social Networks
+by A. Macedo, L. Marinho and R. Santos (Best Paper)
+Crowd Sourcing, with a Few Answers: Recommending Commuters for Traffic Updates
+by E. Daly, M. Berlingerio and F. Schnitzler (Best Short Paper)
+2014
+
+Beyond Clicks: Dwell Time for Personalization
+by X. Yi, L. Hong, E. Zhong, N. Nan Liu and S. Rajan (Best Paper)
+2013
+
+A Fast Parallel SGD for Matrix Factorization in Shared Memory Systems
+by Y. Zhuang, W. Chin, Y. Juan and C. Lin (Best Paper)
+2012
+
+CLiMF: Learning to Maximize Reciprocal Rank with Collaborative Less-is-More Filtering
+by Y. Shi, A. Karatzoglou, L. Baltrunas, M. Larson, N. Oliver and A. Hanjalic (Best Paper)
+Using Graph Partitioning Techniques for Neighbour Selection in User-Based Collaborative Filtering
+by A. Bellogin and J. Parapar (Best Short Paper)
+2011
+
+OrdRec: An Ordinal Model for Predicting Personalized Item Rating Distributions
+by Y. Koren and J. Sill (Best Paper)
+Utilizing Related Product for Post-Purchase Recommendation in E-commerce
+by J. Wang, B. Sarwar and N. Sundaresan (Best Short Paper)
+2010
+
+A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks by M. Jamali and M. Ester (Best Paper)
+Merging Multiple Criteria to Identify Suspicious Reviews
+by G. Wu, D. Greene and P. Cunningham (Best Short Paper)
+The Network Effects of Recommending Social Connections
+by E. Daly, W. Geyer and D. Millen (Best Short Paper)
+2009
+
+Collaborative Prediction and Ranking with Non-Random Missing Data
+by B. Marlin and R. Zemel (Best Paper)
+Understanding the Effect of Adaptive Preference Elicitation Methods on User Satisfaction of a Recommender System
+=======
+RecSys Best Paper Awards
+
+2015
+
+Context-Aware Event Recommendation in Event-based Social Networks
+by A. Macedo, L. Marinho and R. Santos (Best Paper)
+Crowd Sourcing, with a Few Answers: Recommending Commuters for Traffic Updates
+by E. Daly, M. Berlingerio and F. Schnitzler (Best Short Paper)
+2014
+
+Beyond Clicks: Dwell Time for Personalization
+by X. Yi, L. Hong, E. Zhong, N. Nan Liu and S. Rajan (Best Paper)
+2013
+
+A Fast Parallel SGD for Matrix Factorization in Shared Memory Systems
+by Y. Zhuang, W. Chin, Y. Juan and C. Lin (Best Paper)
+2012
+
+CLiMF: Learning to Maximize Reciprocal Rank with Collaborative Less-is-More Filtering
+by Y. Shi, A. Karatzoglou, L. Baltrunas, M. Larson, N. Oliver and A. Hanjalic (Best Paper)
+Using Graph Partitioning Techniques for Neighbour Selection in User-Based Collaborative Filtering
+by A. Bellogin and J. Parapar (Best Short Paper)
+2011
+
+OrdRec: An Ordinal Model for Predicting Personalized Item Rating Distributions
+by Y. Koren and J. Sill (Best Paper)
+Utilizing Related Product for Post-Purchase Recommendation in E-commerce
+by J. Wang, B. Sarwar and N. Sundaresan (Best Short Paper)
+2010
+
+A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks by M. Jamali and M. Ester (Best Paper)
+Merging Multiple Criteria to Identify Suspicious Reviews
+by G. Wu, D. Greene and P. Cunningham (Best Short Paper)
+The Network Effects of Recommending Social Connections
+by E. Daly, W. Geyer and D. Millen (Best Short Paper)
+2009
+
+Collaborative Prediction and Ranking with Non-Random Missing Data
+by B. Marlin and R. Zemel (Best Paper)
+Understanding the Effect of Adaptive Preference Elicitation Methods on User Satisfaction of a Recommender System
+>>>>>>> 41858ccef5438ba772db7bc7c697ff0c727521fc
+by B. Knijnenburg and M. Willemsen (Best Short Paper)

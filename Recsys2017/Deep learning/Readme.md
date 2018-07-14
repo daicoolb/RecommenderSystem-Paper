@@ -1,0 +1,5 @@
+- [Getting Deep Recommenders Fit Bloom Embeddings for Sparse Binary Input Output Networks](http://cn.arxiv.org/pdf/1706.03993.pdf)
+- [Interpretable Convolutional Neural Networks with Dual Local and Global Attention for Review Rating Prediction](https://dl.acm.org/citation.cfm?id=3109890)
+- [Recommendation of High Quality Representative Reviews in e-commerce](https://dl.acm.org/citation.cfm?id=3109901)
+- [TransNets Learning to Transform for Recommendation](http://cn.arxiv.org/pdf/1704.02298.pdf)
+- [When Recurrent Neural Networks meet the Neighborhood for Session-Based Recommendation](https://dl.acm.org/citation.cfm?id=3109872)

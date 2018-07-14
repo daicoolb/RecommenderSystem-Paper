@@ -1,0 +1,8 @@
+- [Additive Co-Clustering with Social Influence for Recommendation](https://dl.acm.org/citation.cfm?id=3109883)
+- [An Elementary View on Factorization Machines](https://dl.acm.org/citation.cfm?id=3109892)
+- [Chemical Reactant Recommendation Using a Network of Organic Chemistry](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/p210-savage.pdf)
+- [Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations](https://dl.acm.org/citation.cfm?id=3109880)
+- [Folding Why Good Models Sometimes Make Spurious Recommendations](https://dl.acm.org/citation.cfm?id=3109911)
+- [MPR Multi-Objective Pairwise Ranking](https://dl.acm.org/citation.cfm?id=3109903)
+- [Sequential User-based Recurrent Neural Network Recoomendation](https://dl.acm.org/citation.cfm?id=3109877)
+- [Translation-based Recommendation](http://cn.arxiv.org/pdf/1707.02410.pdf)

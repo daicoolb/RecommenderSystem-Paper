@@ -1,0 +1,4 @@
+- [atrank an attention-based user behavior modeling framework for recommendation](http://cn.arxiv.org/pdf/1711.06632.pdf)
+- [Coupled Poisson Factorization Integrated with User/Item Metadata for Modeling Popular and Sparse Ratings in Scalable Recommendation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16637/16602)
+- [Telepath: Understanding Users from a Human Vision Perspective in Large-Scale Recommender Systems](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16066/15721)
+- [walkranker a unified pairwise ranking model with multiple relations for item recommendation](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16520/15979)

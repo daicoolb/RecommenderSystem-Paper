@@ -1,0 +1,4 @@
+- [Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks](http://cn.arxiv.org/pdf/1706.04148.pdf)
+- [Modeling User Session and Intent with an Attention-based Encoder-Decoder Architecture](https://dl.acm.org/citation.cfm?id=3109917)
+- [3D Convolutional Networks for Session-based Recommendation with Content Features](https://dl.acm.org/citation.cfm?id=3109900)
+- [Recommending Personalized News in Short User Sessions](https://dl.acm.org/citation.cfm?id=3109894)

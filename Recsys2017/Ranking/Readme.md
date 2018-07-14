@@ -1,0 +1,6 @@
+- [entity2rec Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation](http://giusepperizzo.github.io/publications/Palumbo_Rizzo-RecSys2017.pdf)
+- [On Parallelizing SGD for Pairwise Learning to Rank in Collaborative Filtering Recommender Systems](https://dl.acm.org/citation.cfm?id=3109906)
+- [Metalearning for Context-aware Filtering Selection of Tensor Factorization Algorithms](https://dl.acm.org/citation.cfm?id=3109899)
+- [Learning to Rank with Trust and Distrust in Recommender Systems](https://dl.acm.org/citation.cfm?id=3109879)
+- [Controlling Popularity Bias in Learning-to-Rank Recommendation](https://dl.acm.org/citation.cfm?id=3109912)
+- [A Gradient-based Adaptive Learning Framework for Efficient Personal Recommendation](http://www.hongliangjie.com/publications/recsys2017.pdf)
