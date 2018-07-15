@@ -17,7 +17,7 @@ For the convenience of reading, I collect some basic and important papers about 
  
  | Topic | Papers |
  |:-:    |:-:     |
- |   Cold Start   |   - [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem](https://dl.acm.org/citation.cfm?doid=3108148)         - [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148)
+ |   Cold Start   |   - [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem](https://dl.acm.org/citation.cfm?doid=3108148) - [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148) |
      - [Low-Rank Linear Cold-Start Recommendation from Social Data](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828)
      - [A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14676)
      - [Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors](http://aclweb.org/anthology/P17-1034)
