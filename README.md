@@ -16,7 +16,7 @@ For the convenience of reading, I collect some basic and important papers about 
  - [Recsys](https://recsys.acm.org/) is the most famous conference in recommender system. 
  
  | Topic | Papers |
- |:-:    |:-:     |
+ |:-:    |:-     |
  |   Cold Start   |- [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem](https://dl.acm.org/citation.cfm?doid=3108148)  <br>- [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148) |
      - [Low-Rank Linear Cold-Start Recommendation from Social Data](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828)
      - [A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14676)
