@@ -17,27 +17,19 @@ For the convenience of reading, I collect some basic and important papers about 
  
  | Topic | Papers |
  |:-:    |:-:     |
- |   Cold Start   |  
-     - **2017 TKDE**
+ |   Cold Start   |   
      - [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem](https://dl.acm.org/citation.cfm?doid=3108148)
-   - **2017 IS**
      - [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148)
-   - **2017 AAAI**
      - [Low-Rank Linear Cold-Start Recommendation from Social Data](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828)
      - [A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14676)
-   - **2017 ACL**
      - [Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors](http://aclweb.org/anthology/P17-1034)
-   - **2017 IJCAI**
      - [Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness](https://www.ijcai.org/proceedings/2017/382)
-   - **2017 Multimedia**
      - [Two Birds One Stone: On both Cold-Start and Long-Tail Recommendation ](https://dl.acm.org/citation.cfm?doid=3123266.3123316)
-   - **2017 NIPS**
      - [A Meta-Learning Perspective on Cold-Start Recommendations for Items ](http://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items)
      - [DropoutNet: Addressing Cold Start in Recommender Systems ](http://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)
-   - **2017 Recsys**
      - [Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations](https://dl.acm.org/citation.cfm?doid=3109859.3109880)
-   - **2017 WWW**
      - [On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction](https://dl.acm.org/citation.cfm?doid=3041021.3054269)  |
+    
      
  - Cold Start
    
