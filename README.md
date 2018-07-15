@@ -18,8 +18,7 @@ For the convenience of reading, I collect some basic and important papers about 
  | Topic | Papers |
  |:-:    |:-     |
  |   Cold Start   |- [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem](https://dl.acm.org/citation.cfm?doid=3108148)  <br>- [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148) <br>- [Low-Rank Linear Cold-Start Recommendation from Social Data](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828) <br> - [A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14676) <br> - [Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors](http://aclweb.org/anthology/P17-1034) <br>- [Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness](https://www.ijcai.org/proceedings/2017/382)<br>- [Two Birds One Stone: On both Cold-Start and Long-Tail Recommendation ](https://dl.acm.org/citation.cfm?doid=3123266.3123316)<br>- [A Meta-Learning Perspective on Cold-Start Recommendations for Items ](http://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items)<br>  - [DropoutNet: Addressing Cold Start in Recommender Systems ](http://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)<br> - [Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations](https://dl.acm.org/citation.cfm?doid=3109859.3109880)<br> - [On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction](https://dl.acm.org/citation.cfm?doid=3041021.3054269)  |
-| Deep learning | <br>
- <br>    - **2018 WWW** <br>
+| Deep learning | - **2018 WWW** <br>
      - [Neural Attentional Rating Regression with Review-level Explanations]<br>
      - Code Link:https://github.com/chenchongthu/DeepCoNN<br> |
    - **2017 ACML** 
@@ -83,6 +82,7 @@ For the convenience of reading, I collect some basic and important papers about 
      - [Deep content-based music recommendation by Aaron van den Oord ](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation.pdf)
    - **2007 ICML** 
      - [Restricted Boltzmann Machines for Collaborative Filtering by Ruslan Salakhutdinov](http://www.machinelearning.org/proceedings/icml2007/papers/407.pdf)
+    
  
 **In this session, I have collected some useful recommeder system engine**:
  - [Mosaic](https://github.com/guymorita/Mosaic-Films---Recommendation-Engine-Demo) Mosaic Films is a demo of the recommendationRaccoon engine built on top of Node.js.
