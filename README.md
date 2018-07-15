@@ -17,7 +17,8 @@ For the convenience of reading, I collect some basic and important papers about 
  
  | Topic | Papers |
  |:-:    |:-:     |
- |   Cold Start   |   - **2017 TKDE**
+ |   Cold Start   |  
+     - **2017 TKDE**
      - [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem](https://dl.acm.org/citation.cfm?doid=3108148)
    - **2017 IS**
      - [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148)
@@ -36,7 +37,7 @@ For the convenience of reading, I collect some basic and important papers about 
    - **2017 Recsys**
      - [Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations](https://dl.acm.org/citation.cfm?doid=3109859.3109880)
    - **2017 WWW**
-     - [On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction](https://dl.acm.org/citation.cfm?doid=3041021.3054269)     |
+     - [On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction](https://dl.acm.org/citation.cfm?doid=3041021.3054269)  |
      
  - Cold Start
    
