@@ -18,16 +18,11 @@ For the convenience of reading, I collect some basic and important papers about 
  | Topic | Papers |
  |:-:    |:-     |
  |   Cold Start   |- [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem](https://dl.acm.org/citation.cfm?doid=3108148)  <br>- [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148) <br>- [Low-Rank Linear Cold-Start Recommendation from Social Data](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828) <br> - [A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14676) <br> - [Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors](http://aclweb.org/anthology/P17-1034) <br>- [Recommendation vs Sentiment Analysis: A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness](https://www.ijcai.org/proceedings/2017/382)<br>- [Two Birds One Stone: On both Cold-Start and Long-Tail Recommendation ](https://dl.acm.org/citation.cfm?doid=3123266.3123316)<br>- [A Meta-Learning Perspective on Cold-Start Recommendations for Items ](http://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items)<br>  - [DropoutNet: Addressing Cold Start in Recommender Systems ](http://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)<br> - [Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations](https://dl.acm.org/citation.cfm?doid=3109859.3109880)<br> - [On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction](https://dl.acm.org/citation.cfm?doid=3041021.3054269)  |
-| Deep learning | - **2018 WWW** <br>
-     - [Neural Attentional Rating Regression with Review-level Explanations]<br>
-     - Code Link:https://github.com/chenchongthu/DeepCoNN<br> |
-   - **2017 ACML** 
-     - [PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems ](http://proceedings.mlr.press/v77/liu17a/liu17a.pdf)
-       - Code Link: https://github.com/daicoolb/PHDMF
-   - **2017 Recsys**   
-     - [Boosting Recommender Systems with Deep Learning ](https://dl.acm.org/citation.cfm?doid=3109859.3109926)
-     - [Deep Learning for Recommender Systems ](https://dl.acm.org/citation.cfm?doid=3109859.3109933)
-     - [TransNets: Learning to Transform for Recommendation  by Rose Catherine ](https://arxiv.org/abs/1704.02298) 
+| Deep learning | - [Neural Attentional Rating Regression with Review-level Explanations]<br>- [PHD: A Probabilistic Model of Hybrid Deep Collaborative Filtering for Recommender Systems ](http://proceedings.mlr.press/v77/liu17a/liu17a.pdf)<br>
+     - [Boosting Recommender Systems with Deep Learning ](https://dl.acm.org/citation.cfm?doid=3109859.3109926)<br>
+     - [Deep Learning for Recommender Systems ](https://dl.acm.org/citation.cfm?doid=3109859.3109933)<br>
+     - [TransNets: Learning to Transform for Recommendation  by Rose Catherine ](https://arxiv.org/abs/1704.02298)<br> |
+     
    - **2017 CORR** 
      - [Representation Learning and Pairwise Ranking for Implicit and Explicit Feedback in Recommendation Systems by Mikhail Trofimov ](https://arxiv.org/abs/1705.00105)
    - **2017 IJCAI** 
