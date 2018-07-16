@@ -32,7 +32,7 @@ For the convenience of reading, I collect some basic and important papers about 
  - [SparkMovieLens](https://github.com/jadianes/spark-movie-lens) A scalable on-line movie recommender using Spark and Flask.
  - [Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender) Building a Recommender with Apache Spark & Elasticsearch.
  
- Here are some categories which I think is very interesting:
+**Here are some categories which I think is very interesting**:
 
  | Topic | Papers |
  |:-:    |:-     |
