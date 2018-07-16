@@ -4,7 +4,7 @@
 
 For the convenience of reading, I collect some basic and important papers about recommender system.
 
-**Here is the main conferences within recommender system and some categories which I think is interesting**:
+**Here are the main conferences within recommender system**:
  - [KDD](http://www.kdd.org/) the community for data mining, data science and analytics.
  - [ICDM](http://www.cs.uvm.edu/~icdm/) draws researchers and application developers from a wide range of data mining related areas such as statistics, machine learning, pattern recognition, databases and data warehousing, data visualization, knowledge-based systems, and high performance computing. 
  - [AAAI](https://www.aaai.org/)  promotes research in, and responsible use of, artificial intelligence.
@@ -32,6 +32,8 @@ For the convenience of reading, I collect some basic and important papers about 
  - [SparkMovieLens](https://github.com/jadianes/spark-movie-lens) A scalable on-line movie recommender using Spark and Flask.
  - [Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender) Building a Recommender with Apache Spark & Elasticsearch.
  
+ Here are some categories which I think is very interesting:
+
  | Topic | Papers |
  |:-:    |:-     |
  |   Cold Start   |- [RaPare: A Generic Strategy for Cold-Start Rating Prediction Problem](https://dl.acm.org/citation.cfm?doid=3108148)  <br>- [Local Representative-Based Matrix Factorization for Cold-Start Recommendation ](https://dl.acm.org/citation.cfm?doid=3108148) <br>- [Low-Rank Linear Cold-Start Recommendation from Social Data](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14828) <br> - [A Hybrid Collaborative Filtering Model with Deep Structure for Recommender Systems](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14676) <br> - [Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors](http://aclweb.org/anthology/P17-1034) <br>- [A Text-Driven Latent Factor Model for Rating Prediction with Cold-Start Awareness](https://www.ijcai.org/proceedings/2017/382)<br>- [Two Birds One Stone: On both Cold-Start and Long-Tail Recommendation ](https://dl.acm.org/citation.cfm?doid=3123266.3123316)<br>- [A Meta-Learning Perspective on Cold-Start Recommendations for Items ](http://papers.nips.cc/paper/7266-a-meta-learning-perspective-on-cold-start-recommendations-for-items)<br>  - [DropoutNet: Addressing Cold Start in Recommender Systems ](http://papers.nips.cc/paper/7081-dropoutnet-addressing-cold-start-in-recommender-systems)<br> - [Expediting Exploration by Attribute-to-Feature Mapping for Cold-Start Recommendations](https://dl.acm.org/citation.cfm?doid=3109859.3109880)<br> - [On Learning Mixed Community-specific Similarity Metrics for Cold-start Link Prediction](https://dl.acm.org/citation.cfm?doid=3041021.3054269)  |
