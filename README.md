@@ -14,6 +14,7 @@ For the convenience of reading, I collect some basic and important papers about 
  - [CIKM](http://www.cikmconference.org/) provides an international forum for presentation and discussion of research on information and knowledge management, as well as recent advances on data and knowledge bases.
  - [SIGIR](http://sigir.org/)  is the Association for Computing Machinery’s Special Interest Group on Information Retrieval. Since 1963, we have promoted research, development and education in the area of search and other information access technologies.
  - [Recsys](https://recsys.acm.org/) is the most famous conference in recommender system. 
+ - [WSDM](http://www.wsdm-conference.org/) (pronounced "wisdom") is one of the the premier conferences on web inspired research involving search and data mining.
  
 **In this session, I have collected some useful recommeder system engine**:
  - [Mosaic](https://github.com/guymorita/Mosaic-Films---Recommendation-Engine-Demo) Mosaic Films is a demo of the recommendationRaccoon engine built on top of Node.js.
