@@ -9,3 +9,4 @@
 - [CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf)
 - [Discrete Deep Learning for Fast Content-Aware Recommendation ](http://net.pku.edu.cn/daim/hongzhi.yin/papers/WSDM18.pdf)
 - [Robust Transfer Learning for Cross-domain Collaborative Filtering Using Multiple Rating Patterns Approximation](https://dl.acm.org/citation.cfm?id=3159675)
+- [Sequential Recommendation with User Memory Networks ](http://xu-chen.com/resources/paper-pdf/sequential-rec-memory-network-wsdm18.pdf)
