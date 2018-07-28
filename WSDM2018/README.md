@@ -7,3 +7,4 @@
 - [Neural Personalized Ranking for Image Recommendation ](http://faculty.cse.tamu.edu/caverlee/pubs/niu18wsdm.pdf)
 - [Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking ](https://dl.acm.org/citation.cfm?id=3159715)
 - [CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf)
+- [Discrete Deep Learning for Fast Content-Aware Recommendation ](http://net.pku.edu.cn/daim/hongzhi.yin/papers/WSDM18.pdf)
