@@ -6,3 +6,4 @@
 - [Latent Cross: Making Use of Context in Recurrent Recommender Systems ](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46488.pdf)
 - [Neural Personalized Ranking for Image Recommendation ](http://faculty.cse.tamu.edu/caverlee/pubs/niu18wsdm.pdf)
 - [Recommendation in Heterogeneous Information Networks Based on Generalized Random Walk Model and Bayesian Personalized Ranking ](https://dl.acm.org/citation.cfm?id=3159715)
+- [CrossFire: Cross Media Joint Friend and Item Recommendations](http://www.public.asu.edu/~skai2/papers/wsdmf325-shuA.pdf)
