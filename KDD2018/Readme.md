@@ -12,6 +12,6 @@
 - [Stablizing Reinforcement Learning in Dynamic Environment with Application to Online Recommendation]()
 - [Q&R: A Two-Stage Approach Toward Interactive Recommendation]()
 - [Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba]()
-- [Dynamic Recommendations for Sequential Hiring Decisions in Online Labor Markets]()
-- [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning]()
+- [Dynamic Recommendations for Sequential Hiring Decisions in Online Labor Markets](http://delivery.acm.org/10.1145/3220000/3219881/p453-kokkodis.pdf?ip=202.120.40.91&id=3219881&acc=OPENTOC&key=BF85BBA5741FDC6E%2E17676C47DFB149BF%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1532779158_8a81eb6e1c156c15a84edd58c264cc31)
+- [Recommendations with Negative Feedback via Pairwise Deep Reinforcement Learning](http://cn.arxiv.org/pdf/1802.06501.pdf)
 - [Buy It Again: Modeling Repeat Purchase Recommendations]()
