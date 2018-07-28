@@ -10,3 +10,4 @@
 - [Discrete Deep Learning for Fast Content-Aware Recommendation ](http://net.pku.edu.cn/daim/hongzhi.yin/papers/WSDM18.pdf)
 - [Robust Transfer Learning for Cross-domain Collaborative Filtering Using Multiple Rating Patterns Approximation](https://dl.acm.org/citation.cfm?id=3159675)
 - [Sequential Recommendation with User Memory Networks ](http://xu-chen.com/resources/paper-pdf/sequential-rec-memory-network-wsdm18.pdf)
+- [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding ](http://www.sfu.ca/~jiaxit/resources/wsdm18caser.pdf)
