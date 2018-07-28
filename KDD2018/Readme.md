@@ -1,7 +1,7 @@
 
 - [Supervised Reinforcement Learning with Recurrent Neural Network for Dynamic Treatment Recommendation](http://cn.arxiv.org/pdf/1807.01473.pdf)
 - [Leveraging Meta-path based Context for Top N recommendation with Co-attention mechanism]()
-- [Efficient Attribute Recommendation with Probabilistic Guarantee]()
+- [Efficient Attribute Recommendation with Probabilistic Guarantee](http://delivery.acm.org/10.1145/3220000/3219984/p2387-wang.pdf?ip=202.120.40.91&id=3219984&acc=OPENTOC&key=BF85BBA5741FDC6E%2E17676C47DFB149BF%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1532779568_ec61fcc7ddaef48043e5722b29c87982)
 - [Multi-Pointer Co-Attention Networks for Recommendation](http://cn.arxiv.org/pdf/1801.09251.pdf)
 - [Multi-User Mobile Sequential Recommendation: An Efficient Parallel Computing Paradigm](http://delivery.acm.org/10.1145/3230000/3220111/p2624-ye.pdf?ip=202.120.40.91&id=3220111&acc=OPENTOC&key=BF85BBA5741FDC6E%2E17676C47DFB149BF%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1532779478_27463e33d7a236d8ca491b029acd1f99)
 - [Local Latent Space Models for Top-N Recommendation](http://delivery.acm.org/10.1145/3230000/3220112/p1235-christakopoulou.pdf?ip=202.120.40.91&id=3220112&acc=OPENTOC&key=BF85BBA5741FDC6E%2E17676C47DFB149BF%2E4D4702B0C3E38B35%2E054E54E275136550&__acm__=1532779451_eedab153b13f9abf9bae2185e4d1b05c)
