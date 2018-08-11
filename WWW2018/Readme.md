@@ -6,3 +6,5 @@
  - [Aesthetic-based Clothing Recommendation](https://www.comp.nus.edu.sg/~xiangnan/papers/www18-clothing-rec.pdf)
  - [How to Impute Missing Ratings?: Claims, Solution, and Its Application to Collaborative Filtering](http://delivery.acm.org/10.1145/3190000/3186159/p783-lee.pdf?ip=203.205.141.49&id=3186159&acc=OPEN&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1533992397_86b4ab73f4f2b3a9a3b82c83642d11f1)
  - [AdaError: An Adaptive Learning Rate Method for Matrix Approximation-based Collaborative Filtering](http://recmind.cn/papers/adaerror_www18.pdf)
+ - [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](https://arxiv.org/pdf/1707.05176.pdf)
+ - [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf)
