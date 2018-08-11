@@ -8,3 +8,4 @@
  - [AdaError: An Adaptive Learning Rate Method for Matrix Approximation-based Collaborative Filtering](http://recmind.cn/papers/adaerror_www18.pdf)
  - [Latent Relational Metric Learning via Memory-based Attention for Collaborative Ranking](https://arxiv.org/pdf/1707.05176.pdf)
  - [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814.pdf)
+ - [DRN: A Deep Reinforcement Learning Framework for News Recommendation](http://www.personal.psu.edu/~gjz5038/paper/www2018_reinforceRec/www2018_reinforceRec.pdf)
