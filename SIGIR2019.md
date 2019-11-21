@@ -1,9 +1,9 @@
 
-- [A Capsule Network for Recommendation and Explaining What You Like and Dislike]
-- [A Collaborative Session-based Recommendation Approach with Parallel Memory Modules]
-- [A General Framework for Counterfactual Learning-to-Rank]
-- [A Neural Influence Diffusion Model for Social Recommendation]
-- [Accelerated Query Processing Via Similarity Score Prediction]
+- [A Capsule Network for Recommendation and Explaining What You Like and Dislike](https://arxiv.org/pdf/1907.00687.pdf)
+- [A Collaborative Session-based Recommendation Approach with Parallel Memory Modules](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/wang-2019-collaborative.pdf)
+- [A General Framework for Counterfactual Learning-to-Rank](http://www.cs.cornell.edu/people/tj/publications/agarwal_etal_19b.pdf)
+- [A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf)
+- [Accelerated Query Processing Via Similarity Score Prediction](https://jmmackenzie.io/pdf/pm+19-sigir.pdf)
 - [Bayesian Personalized Feature Interaction Selection for Factorization Machines]
 - [Compositional Coding for Collaborative Filtering]
 - [CROSS: Cross-platform Recommendation for Social E-Commerce]
@@ -12,3 +12,8 @@
 - [Noise Contrastive Estimation for One-Class Collaborative Filtering]
 - [Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network]
 - [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation]
+- [Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation]
+- [Transparent, Scrutable and Explainable User Models for Personalized Recommendation]
+- [Unified Collaborative Filtering over Graph Embeddings]
+- [Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings]
+- [π-Net: A Parallel Information-sharing Network for Cross-domain Shared-account Sequential Recommendations]
