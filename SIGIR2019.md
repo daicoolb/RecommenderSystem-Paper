@@ -4,16 +4,16 @@
 - [A General Framework for Counterfactual Learning-to-Rank](http://www.cs.cornell.edu/people/tj/publications/agarwal_etal_19b.pdf)
 - [A Neural Influence Diffusion Model for Social Recommendation](https://arxiv.org/pdf/1904.10322.pdf)
 - [Accelerated Query Processing Via Similarity Score Prediction](https://jmmackenzie.io/pdf/pm+19-sigir.pdf)
-- [Bayesian Personalized Feature Interaction Selection for Factorization Machines]
-- [Compositional Coding for Collaborative Filtering]
-- [CROSS: Cross-platform Recommendation for Social E-Commerce]
-- [Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation]
-- [Neural Graph Collaborative Filtering]
-- [Noise Contrastive Estimation for One-Class Collaborative Filtering]
-- [Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network]
-- [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation]
-- [Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation]
-- [Transparent, Scrutable and Explainable User Models for Personalized Recommendation]
-- [Unified Collaborative Filtering over Graph Embeddings]
-- [Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings]
-- [π-Net: A Parallel Information-sharing Network for Cross-domain Shared-account Sequential Recommendations]
+- [Bayesian Personalized Feature Interaction Selection for Factorization Machines](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/chen-2019-bayesian.pdf)
+- [Compositional Coding for Collaborative Filtering](https://arxiv.org/pdf/1905.03752.pdf)
+- [CROSS: Cross-platform Recommendation for Social E-Commerce](https://lzhbrian.me/sigir19-cross)
+- [Interact and Decide: Medley of Sub-Attention Networks for Effective Group Recommendation](https://dl.acm.org/citation.cfm?id=3331251)
+- [Neural Graph Collaborative Filtering](https://arxiv.org/pdf/1905.08108.pdf)
+- [Noise Contrastive Estimation for One-Class Collaborative Filtering](https://dl.acm.org/citation.cfm?id=3331201)
+- [Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network](http://yongfeng.me/attach/chen-sigir2019.pdf)
+- [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237.pdf)
+- [Relational Collaborative Filtering: Modeling Multiple Item Relations for Recommendation](https://arxiv.org/pdf/1904.12796.pdf)
+- [Transparent, Scrutable and Explainable User Models for Personalized Recommendation](https://dl.acm.org/citation.cfm?id=3331211)
+- [Unified Collaborative Filtering over Graph Embeddings](http://yongfeng.me/attach/wang-sigir2019a.pdf)
+- [Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings](https://arxiv.org/pdf/1904.11547.pdf)
+- [π-Net: A Parallel Information-sharing Network for Cross-domain Shared-account Sequential Recommendations](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ma-2019-pi-net.pdf)
